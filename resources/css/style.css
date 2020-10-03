@@ -506,7 +506,7 @@ cite img {
     border-radius: 5px;
     width: 90%;
     margin-left: 5%;
-    box-shadow: 0 2px 2px #efefef;
+    box-shadow: 0 20px 20px #efefef; /*The box-shadow property attaches one or more shadows to an element.*/
 }
 
 .plan-box div {
