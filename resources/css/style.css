@@ -459,7 +459,7 @@ header {
 and then the customer images.So, we create a linear gradient so as before, I will start with complete black and then change it with the color picker and command E*/
     background-size: cover;
     color: #fff;
-    background-attachment: fixed;
+    background-attachment: fixed; /*Used for stop the movement of background while scrolling down.*/
 }
 
 blockquote {
